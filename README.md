@@ -40,6 +40,7 @@ The "400" in Helios400 represents Solana's lightning-fast 400-millisecond block 
   <img src="https://i.imgur.com/tpjER3U.png" alt="Diagram1" width="800">
 </div>
 
+
 ## How Helios400 Works
 
 Helios400 uses a smart two-contract system on Solana to seamlessly convert between SOLARCASKETS tokens and NFTs through an easy-to-use dashboard interface. The protocol ensures your assets are always safe and recoverable through specialized vault contracts that hold your tokens securely.
@@ -56,9 +57,11 @@ To gamble, you use the SOLARSPACE platform to create or join challenges. The int
 ### The Vault System
 Behind the scenes, a separate vault contract acts like a safety deposit box, holding tokens 1:1 for every NFT that exists. This ensures that even if something unexpected happens, your value is always protected and recoverable. The beauty of this system is that you never have to worry about the technical complexity - just connect your wallet to the dashboard and swap with a few clicks!
 
+
 <div align="center">
   <img src="https://i.imgur.com/6NYO1CW.png" alt="Diagram1" width="800">
 </div>
+
 
 ## The Casket Collection
 
@@ -101,9 +104,11 @@ Flowerpoker is Solarcaskets' signature gambling game, inspired by the classic Ru
 ### Available Flower Colors
 The game features 9 distinct flower colors: Assorted, Black, Blue, Mixed, Orange, Purple, Red, White, and Yellow. Each color has its own probability of appearing, with Black flowers being the rarest, creating an additional layer of strategy and excitement to each match.
 
+
 <div align="center">
   <img src="https://i.imgur.com/G57gBzv.png" alt="Diagram3" width="800">
 </div>
+
 
 ---
 
