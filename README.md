@@ -1,6 +1,6 @@
 # SOLARCASKETS
 
-*SOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 standard on Solana, featuring dynamic SPL token-to-NFT conversion mechanisms with Switchboard Oracle integration for verifiable on-chain gambling*
+SOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 standard on Solana, featuring dynamic SPL token-to-NFT conversion mechanisms with Switchboard Oracle integration for verifiable on-chain gambling
 <div align="center">
   <img src="https://i.imgur.com/J4j5QmA.png" alt="Banner" width="800">
 </div>
