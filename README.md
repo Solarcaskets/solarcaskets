@@ -95,9 +95,9 @@ Flowerpoker is Solarcaskets' signature gambling game, inspired by the classic Ru
 - Mixed flowers: 14.66%
 - Red flowers: 14.08%
 - Assorted flowers: 10.78%
-- Black flowers: ~0.2% (2 in 1,001) - Ultra Rare
-- Purple flowers: [Variable]
-- White flowers: [Variable]
+- Black flowers: ~0.2% (2 in 1,001)
+- Purple flowers: 14.84%
+- White flowers: ~0.1% (1 in 1,001)
 
 ### Winning Hand Rankings (Best to Worst)
 1. **5-of-a-kind**: Five flowers of the same color
