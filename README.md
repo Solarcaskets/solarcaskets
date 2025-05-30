@@ -51,13 +51,13 @@ The "400" in Helios400 represents Solana's lightning-fast 400-millisecond block 
 
 Helios400 uses a smart two-contract system on Solana to seamlessly convert between SOLARCASKETS tokens and NFTs through an easy-to-use dashboard interface. The protocol ensures your assets are always safe and recoverable through specialized vault contracts that hold your tokens securely.
 
-### Getting Your NFT (Minting)
+### Getting Your NFT
 Using the SOLARCASKETS dashboard, you simply connect your wallet and use the swap interface to convert your tokens into an NFT. When you initiate the swap, the dashboard automatically handles sending your tokens to the Helios400 contract, which safely stores them in a secure vault. The contract then requests random numbers from the Switchboard Oracle to determine which type of casket NFT you'll receive (Diamond, Platinum, Gold, or Wooden). Your new NFT is created and sent directly to your wallet, while your original tokens stay locked in the vault as backup.
 
-### Converting Back to Tokens (Swapping)
+### Converting Back to Tokens
 Through the same dashboard interface, you can easily swap your NFT back to tokens. The dashboard handles burning your NFT and the contract releases your original 200,000 tokens from the vault back to your wallet. It's a perfect 1:1 exchange - you always get exactly what you put in.
 
-### Playing FlowerPoker (Gambling)
+### Playing Flowerpoker
 To gamble, you use the SOLARSPACE platform to create or join challenges. The interface handles all the technical details - your NFT gets escrowed while you play, and the winner automatically receives both NFTs.
 
 ### The Vault System
