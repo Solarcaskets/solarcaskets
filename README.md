@@ -71,7 +71,7 @@ Behind the scenes, a vault acts like a safety deposit box, holding tokens 1:1 fo
 
 ## The Casket Collection
 
-The SOLARCASKETS collection consists of four distinct types of NFTs, each representing a unique casket tier: Diamond, Platinum, Gold, and Wooden. Upon accumulating the required 200,000 SOLARCASKETS tokens, holders are automatically awarded one of these NFT caskets. These NFTs serve as admission tickets for participating in the decentralized FlowerPoker gambling games on the SOLARSPACE platform.
+The SOLARCASKETS collection consists of four distinct types of NFTs, each representing a unique casket tier: Diamond, Platinum, Gold, and Wooden. Upon accumulating the required 200,000 SOLARCASKETS tokens, holders are awarded one of these NFT caskets. They can obtain this NFT by visiting the "Swap & Play" page. These NFTs serve as admission tickets for participating in the Flowerpoker gambling game on the SOLARSPACE platform.
 
 The rarity distribution of generated caskets is as follows:
 
