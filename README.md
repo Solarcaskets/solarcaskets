@@ -2,7 +2,7 @@
 
 # 📦 Solarcaskets
 
-SOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 standard on Solana, featuring dynamic SPL token-to-NFT conversion mechanisms with Switchboard Oracle integration for verifiable on-chain gaming
+sOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 standard on Solana, featuring dynamic SPL token-to-NFT conversion mechanisms with Switchboard Oracle integration for verifiable on-chain gaming
 
 </div>
 
@@ -24,7 +24,7 @@ SOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 s
 
 ---
 
-## Why Was SOLARCASKETS Created?
+## Why Was Solarcaskets Created?
 
 Solarcaskets was created in response to a notable trend in the past in the ERC404 project landscape. After careful evaluation of existing token standards and their limitations on Ethereum, we recognized that Solana's infrastructure offered superior advantages for our vision. The blockchain's fast transaction speeds and minimal minting costs made it the ideal platform for our ambitious token-to-NFT hybrid protocol.
 
@@ -40,7 +40,7 @@ Helios400 is a revolutionary token standard built specifically for Solana that b
 
 Think of it as having a digital asset that can be liquid like cash when you want to trade it, or unique like a collectible when you want to use it for gaming or show ownership. This flexibility means you're not locked into one form - you can adapt your holdings to whatever opportunity comes up.
 
-The "400" in Helios400 represents Solana's lightning-fast 400-millisecond block times, emphasizing how this standard takes full advantage of Solana's speed and low costs to make these transformations seamless and affordable.
+The 400 in Helios400 represents Solana's lightning-fast 400-millisecond block times, emphasizing how this standard takes full advantage of Solana's speed and low costs to make these transformations seamless and affordable.
 
 <div align="center">
   <img src="https://i.imgur.com/tpjER3U.png" alt="Diagram1" width="800">
@@ -49,16 +49,16 @@ The "400" in Helios400 represents Solana's lightning-fast 400-millisecond block 
 
 ## How Helios400 Works
 
-Helios400 uses a smart two-contract system on Solana to seamlessly convert between SOLARCASKETS tokens and NFTs through an easy-to-use dashboard interface. The protocol ensures your assets are always safe and recoverable through a vault that hold your tokens securely.
+Helios400 uses a smart two-contract system on Solana to seamlessly convert between Solarcaskets tokens and NFTs through an easy-to-use dashboard interface. The protocol ensures your assets are always safe and recoverable through a vault that hold your tokens securely.
 
 ### Getting Your NFT
-Using the SOLARCASKETS dashboard, you simply connect your wallet and use the swap interface to convert your tokens into an NFT. When you initiate the swap, the dashboard automatically handles sending your tokens to the Helios400 contract, which safely stores them in a secure vault. The contract then requests random numbers from the Switchboard Oracle to determine which type of casket NFT you'll receive (Diamond, Platinum, Gold, or Wooden). Your new NFT is created and sent directly to your wallet, while your original tokens stay locked in the vault as backup.
+Using the Solarcaskets dashboard, you simply connect your wallet and use the swap interface to convert your tokens into an NFT. When you initiate the swap, the dashboard automatically handles sending your tokens to the Helios400 contract, which safely stores them in a secure vault. The contract then requests random numbers from the Switchboard Oracle to determine which type of casket NFT you'll receive (Diamond, Platinum, Gold, or Wooden). Your new NFT is created and sent directly to your wallet, while your original tokens stay locked in the vault as backup.
 
 ### Converting Back to Tokens
 Through the same dashboard interface, you can easily swap your NFT back to tokens. The dashboard handles burning your NFT and the contract releases your original 200,000 tokens from the vault back to your wallet. It's a perfect 1:1 exchange - you always get exactly what you put in.
 
 ### Playing Flowerpoker
-To gamble, you use the SOLARSPACE platform to create or join challenges. The interface handles all the technical details - your NFT gets escrowed while you play, and the winner automatically receives both NFTs.
+To gamble, you use the Solarspace platform to create or join challenges. The interface handles all the technical details - your NFT gets escrowed while you play, and the winner automatically receives both NFTs.
 
 ### The Vault System
 Behind the scenes, a vault acts like a safety deposit box, holding tokens 1:1 for every NFT that exists. This ensures that even if something unexpected happens, your value is always protected and recoverable. The beauty of this system is that you never have to worry about the technical complexity - just connect your wallet to the dashboard and swap with a few clicks!
@@ -75,13 +75,10 @@ The SOLARCASKETS collection consists of four distinct types of NFTs, each repres
 
 The rarity distribution of generated caskets is as follows:
 
-- **Diamond Caskets**: 150 NFTs (0.25% - Ultra Rare)
-- **Platinum Caskets**: 500 NFTs (0.5% - Extremely Rare)  
-- **Gold Caskets**: 1,850 NFTs (30% - Rare)
-- **Wooden Caskets**: 2,500 NFTs (69.25% - Common)
-
-Each casket type carries different prestige and potential advantages within the gaming ecosystem, with rarity inversely proportional to the total supply of each tier.
-
+- **Diamond Caskets**: 4 NFTs (Ultra Rare)
+- **Platinum Caskets**: 1,278 NFTs (Extremely Rare)  
+- **Gold Caskets**: 1,536 NFTs (Rare)
+- **Wooden Caskets**: 2,182 NFTs (Common)
 ---
 
 ## FlowerPoker Gaming
@@ -151,7 +148,7 @@ The game features 9 distinct flower colors: Assorted, Black, Blue, Mixed, Orange
 - Atomic transaction processing
 - Oracle-verified randomness
 - PDA-based account derivation
-- Smart contract escrow for gaming
+- Smart contract escrow for flowerpoker gambling
 
 ---
 
@@ -161,14 +158,14 @@ The game features 9 distinct flower colors: Assorted, Black, Blue, Mixed, Orange
 
 - Solana wallet (Phantom, Solflare, etc.)
 - SOL for transaction fees
-- Solarcasket tokens for minting
+- Solarcasket tokens for minting (200,000 - 1 NFT)
 
 ### Quick Start
 
-1. **Connect Wallet**: Visit the SOLARCASKETS dashboard and connect your Solana wallet
+1. **Connect Wallet**: Visit the Solarcaskets dashboard and connect your Solana wallet
 2. **Acquire Tokens**: Obtain 200,000+ SOLARCASKETS tokens
 3. **Mint NFT**: Use the swap interface to convert tokens to a random casket NFT
-4. **Start Gaming**: Use your NFT on SOLARSPACE to play FlowerPoker
+4. **Start Gaming**: Use your NFT on the Solarcaskets gambling dashboard to play flowerPoker
 5. **Swap Back**: Convert your NFT back to tokens anytime through the dashboard
 
 ### Swap Process
