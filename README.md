@@ -160,21 +160,96 @@ Strategic betting and the rarest flowers (Black, White) introduce both excitemen
 
 ## Feature Comparison
 
-| Feature                        | SPL Token | NFT | Hybrid (ERC404-style) | **SOLARCASKETS** |
-|-------------------------------|-----------|-----|------------------------|------------------|
-| Token Fractionalization       | ✅        | ❌  | ✅                     | ✅               |
-| NFT Protocol Interoperability | ❌        | ✅  | ✅                     | ✅               |
-| Native Liquidity              | ✅        | ❌  | ✅                     | ✅               |
-| SPL Compatibility             | ✅        | ❌  | ✅                     | ✅               |
-| Non-Fungible Properties       | ❌        | ✅  | ✅                     | ✅               |
-| On-Chain Gambling Integration | ❌        | ❌  | ❌                     | ✅               |
-| Switchboard Oracle Support    | ❌        | ❌  | ❌                     | ✅               |
-| Fast Transactions (<400ms)    | ✅        | ✅  | ✅                     | ✅               |
-| Minting Costs <$0.01          | ✅        | ✅  | ✅                     | ✅               |
-| Dynamic NFT Generation        | ❌        | ❌  | ✅                     | ✅               |
-| Automatic Token↔NFT Conversion| ❌        | ❌  | ❌                     | ✅               |
-
----
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>SPL Token</th>
+      <th>NFT</th>
+      <th>Hybrid (ERC404-style)</th>
+      <th><strong>SOLARCASKETS</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Token Fractionalization</td>
+      <td align="center">✅</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>NFT Protocol Interoperability</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Native Liquidity</td>
+      <td align="center">✅</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>SPL Compatibility</td>
+      <td align="center">✅</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Non-Fungible Properties</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>On-Chain Gambling Integration</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Switchboard Oracle Support</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Fast Transactions (&lt;400ms)</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Minting Costs &lt;$0.01</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Dynamic NFT Generation</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td>Automatic Token↔NFT Conversion</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">❌</td>
+      <td align="center">✅</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Technical Architecture
 
