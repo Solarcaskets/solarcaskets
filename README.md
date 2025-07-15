@@ -7,9 +7,9 @@ Seamlessly convert SPL tokens into NFTs with integrated on-chain gambling powere
 
 <br/>
 
-[![🌐 Website](https://img.shields.io/badge/Website-Solarcaskets-blue?style=for-the-badge)](https://your-website.com)  
-[![📖 Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge)](https://your-docs-url.com)  
-[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Solarcaskets-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![🌐 Website](https://img.shields.io/badge/Website-Solarcaskets-blue?style=for-the-badge)](https://solarcaskets.io)  
+[![📖 Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge)](https://docs.solarcaskets.io)  
+[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Solarcaskets-blue?style=for-the-badge&logo=twitter)](https://x.com/solar_caskets)  
 [![🔍 View on Solscan](https://img.shields.io/badge/Solscan-View%20Token-yellow?style=for-the-badge)](https://solscan.io/token/YOUR_TOKEN_ADDRESS)
 
 <br/>
@@ -183,7 +183,7 @@ Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in
 
 ### Quick Steps
 
-1. Connect your wallet at the [Solarcaskets Dashboard](https://your-website.com)
+1. Connect your wallet at the Solarcaskets Dashboard
 2. Acquire 200,000+ $CASKET
 3. Swap for a random NFT
 4. Join a FlowerPoker game
