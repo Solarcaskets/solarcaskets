@@ -1,191 +1,191 @@
 <div align="center">
 
-# 📦 Solarcaskets
+# 📦 Solarcaskets  
+**A hybrid token-to-NFT protocol on Solana built with the Helios400 standard**  
 
-sOLARCASKETS is an innovative hybrid token protocol implementing the Helios400 standard on Solana, featuring dynamic SPL token-to-NFT conversion mechanisms with Switchboard Oracle integration for verifiable on-chain gaming
+Seamlessly convert SPL tokens into NFTs with integrated on-chain gambling powered by Switchboard Oracles.
+
+<br/>
+
+[![🌐 Website](https://img.shields.io/badge/Website-Solarcaskets-blue?style=for-the-badge)](https://your-website.com)  
+[![📖 Documentation](https://img.shields.io/badge/Docs-Read%20More-green?style=for-the-badge)](https://your-docs-url.com)  
+[![🐦 Twitter](https://img.shields.io/badge/Twitter-@Solarcaskets-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)  
+[![🔍 View on Solscan](https://img.shields.io/badge/Solscan-View%20Token-yellow?style=for-the-badge)](https://solscan.io/token/YOUR_TOKEN_ADDRESS)
+
+<br/>
+
+<img src="https://i.imgur.com/J4j5QmA.png" alt="Solarcaskets Banner" width="800">
 
 </div>
 
 ---
-<div align="center">
-  <img src="https://i.imgur.com/J4j5QmA.png" alt="Banner" width="800">
-</div>
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Why was Solarcaskets created?](#why-was-solarcaskets-created)
-- [What is Helios400?](#what-is-helios400)
-- [How Helios400 works](#how-helios400-works)
-- [The casket collection](#the-casket-collection)
-- [Flowerpoker gambling](#flowerpoker-gaming)
-- [Feature comparison](#feature-comparison)
-- [Technical architecture](#technical-architecture)
-- [Getting started](#getting-started)
-
----
-
-## Why Was Solarcaskets Created?
-
-Solarcaskets was created in response to a notable trend in the past in the ERC404 project landscape. After careful evaluation of existing token standards and their limitations on Ethereum, we recognized that Solana's infrastructure offered superior advantages for our vision. The blockchain's fast transaction speeds and minimal minting costs made it the ideal platform for our ambitious token-to-NFT hybrid protocol.
-
-Rather than simply porting existing ERC404 concepts to Solana, we developed our custom Helios400 standard from the ground up. This innovative approach allows us to leverage Solana's unique architecture while building upon the foundational token-to-NFT mechanics that inspired the crypto community.
-
-Solarcaskets stands out as the first project on Solana to introduce native gambling functionality directly into the token standard. This is not just any gambling mechanism but a meticulously designed system that leverages Switchboard Oracle integration for verifiable randomness. By implementing Switchboard Oracles, we prioritize safety and fairness in the outcomes of our FlowerPoker games, ensuring a secure and transparent gambling experience for users while maintaining Solana's characteristic speed and cost-efficiency.
+- [Why Was Solarcaskets Created?](#why-was-solarcaskets-created)
+- [What Is Helios400?](#what-is-helios400)
+- [How Helios400 Works](#how-helios400-works)
+- [The Casket Collection](#the-casket-collection)
+- [FlowerPoker Gambling](#flowerpoker-gambling)
+- [Feature Comparison](#feature-comparison)
+- [Technical Architecture](#technical-architecture)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## What is Helios400?
+## ❓ Why Was Solarcaskets Created?
 
-Helios400 is a revolutionary token standard built specifically for Solana that bridges the gap between traditional tokens and NFTs. Unlike regular tokens that can only be traded, or NFTs that can only be collected, Helios400 creates "hybrid assets" that can transform between both states whenever you need them to.
+Solarcaskets emerged as a response to the limitations of Ethereum's hybrid token standards like ERC404. With Solana’s faster block times and lower fees, we built a protocol that not only replicates those concepts but pushes them further using Solana-native tools like Switchboard Oracles.
 
-Think of it as having a digital asset that can be liquid like cash when you want to trade it, or unique like a collectible when you want to use it for gaming or show ownership. This flexibility means you're not locked into one form - you can adapt your holdings to whatever opportunity comes up.
+Unlike other implementations, **Solarcaskets is the first project to embed gambling mechanics natively into a token standard**, enabling verifiable, secure, and on-chain randomness for games like **FlowerPoker**.
 
-The 400 in Helios400 represents Solana's lightning-fast 400-millisecond block times, emphasizing how this standard takes full advantage of Solana's speed and low costs to make these transformations seamless and affordable.
+---
 
-<div align="center">
-  <img src="https://i.imgur.com/tpjER3U.png" alt="Diagram1" width="800">
-</div>
+## ⚙️ What Is Helios400?
 
+Helios400 is a custom Solana token standard that merges the liquidity of SPL tokens with the uniqueness of NFTs, enabling assets to fluidly switch between these states.
 
-## How Helios400 Works
-
-Helios400 uses a smart two-contract system on Solana to seamlessly convert between Solarcaskets tokens and NFTs through an easy-to-use dashboard interface. The protocol ensures your assets are always safe and recoverable through a vault that hold your tokens securely.
-
-### Getting Your NFT
-Using the Solarcaskets dashboard, you simply connect your wallet and use the swap interface to convert your tokens into an NFT. When you initiate the swap, the dashboard automatically handles sending your tokens to the Helios400 contract, which safely stores them in a secure vault. The contract then requests random numbers from the Switchboard Oracle to determine which type of casket NFT you'll receive (Diamond, Platinum, Gold, or Wooden). Your new NFT is created and sent directly to your wallet, while your original tokens stay locked in the vault as backup.
-
-### Converting Back to Tokens
-Through the same dashboard interface, you can easily swap your NFT back to tokens. The dashboard handles burning your NFT and the contract releases your original 200,000 tokens from the vault back to your wallet. It's a perfect 1:1 exchange - you always get exactly what you put in.
-
-### Playing Flowerpoker
-To gamble, you use the Solarspace platform to create or join challenges. The interface handles all the technical details - your NFT gets escrowed while you play, and the winner automatically receives both NFTs.
-
-### The Vault System
-Behind the scenes, a vault acts like a safety deposit box, holding tokens 1:1 for every NFT that exists. This ensures that even if something unexpected happens, your value is always protected and recoverable. The beauty of this system is that you never have to worry about the technical complexity - just connect your wallet to the dashboard and swap with a few clicks!
-
+Key features:
+- 1:1 token-to-NFT and NFT-to-token conversion
+- Vault-secured backing for every NFT
+- Oracle-based randomness for fair outcomes
+- Seamless and low-cost transactions on Solana
 
 <div align="center">
-  <img src="https://i.imgur.com/6NYO1CW.png" alt="Diagram1" width="800">
+  <img src="https://i.imgur.com/tpjER3U.png" alt="Helios400 Diagram" width="800">
 </div>
 
-
-## The Casket Collection
-
-The SOLARCASKETS collection consists of four distinct types of NFTs, each representing a unique casket tier: Diamond, Platinum, Gold, and Wooden. Upon accumulating the required 200,000 SOLARCASKETS tokens, holders are awarded one of these NFT caskets. They can obtain this NFT by visiting the "Swap & Play" page. These NFTs serve as admission tickets for participating in the Flowerpoker gambling game on the SOLARSPACE platform.
-
-The rarity distribution of generated caskets is as follows:
-
-- **Diamond Caskets**: 4 NFTs (Ultra Rare)
-- **Platinum Caskets**: 1,278 NFTs (Extremely Rare)  
-- **Gold Caskets**: 1,536 NFTs (Rare)
-- **Wooden Caskets**: 2,182 NFTs (Common)
 ---
 
-## FlowerPoker Gaming
+## 🔄 How Helios400 Works
 
-Flowerpoker is Solarcaskets' signature gambling game, inspired by the classic RuneScape minigame. Each player uses their NFT casket to participate in 1v1 matches where the outcome is determined by randomly generated flower combinations via Switchboard Oracle.
+The system operates through two smart contracts that manage token swaps, NFT minting, and oracle integrations, all accessible via the **Solarcaskets dashboard**.
 
-### Flower Generation Probabilities
-- Orange flowers: 15.39%
-- Blue flowers: 15.3%
-- Yellow flowers: 14.65%
-- Mixed flowers: 14.66%
-- Red flowers: 14.08%
-- Assorted flowers: 10.78%
-- Black flowers: ~0.2% (2 in 1,001)
-- Purple flowers: 14.84%
-- White flowers: ~0.1% (1 in 1,001)
+### 🧾 Convert Tokens → NFT
 
-### Winning Hand Rankings (Best to Worst)
-1. **5-of-a-kind**: Five flowers of the same color
-2. **4-of-a-kind**: Four flowers of the same color
-3. **Full house**: Three flowers of one color + two of another
-4. **3-of-a-kind**: Three flowers of the same color
-5. **2 pair**: Two flowers of the same color
-6. **No pair**: All unique flower colors
+- Deposit 200,000 SOLARCASKETS tokens
+- Oracle generates randomness
+- Receive a randomized casket NFT (Diamond, Platinum, Gold, or Wooden)
+- Tokens are stored in a secure vault
 
-### Available Flower Colors
-The game features 9 distinct flower colors: Assorted, Black, Blue, Mixed, Orange, Purple, Red, White, and Yellow. Each color has its own probability of appearing, with Black flowers being the rarest, creating an additional layer of strategy and excitement to each match.
+### 🔁 Convert NFT → Tokens
 
+- Burn your NFT via the dashboard
+- Retrieve your exact 200,000 tokens from the vault
+
+### 🎮 Play FlowerPoker
+
+- Stake your NFT in a 1v1 game
+- Oracle determines the winner
+- Winner receives both NFTs
 
 <div align="center">
-  <img src="https://i.imgur.com/G57gBzv.png" alt="Diagram3" width="800">
+  <img src="https://i.imgur.com/6NYO1CW.png" alt="Helios400 Process" width="800">
 </div>
 
+---
+
+## ⚰️ The Casket Collection
+
+Each NFT represents a tier of rarity and utility:
+
+| Casket Type | Quantity | Rarity        |
+|-------------|----------|---------------|
+| 💎 Diamond   | 4        | Ultra Rare    |
+| 🔷 Platinum  | 1,278    | Extremely Rare|
+| 🟡 Gold      | 1,536    | Rare          |
+| 🪵 Wooden    | 2,182    | Common        |
+
+- **Mint Requirement**: 200,000 SOLARCASKETS tokens
+- **Use Case**: Required to play FlowerPoker
 
 ---
 
-## Feature Comparison
+## 🌸 FlowerPoker Gambling
 
-| Feature / Compatibility | SPL Tokens | Metaplex NFTs | Traditional Hybrid Solutions | SOLARCASKETS (Helios400) |
-|------------------------|------------|---------------|----------------------------|-------------------------|
-| Fractionalization | ✓ | ✗ | ✓ | ✓ |
-| NFT Protocol Interoperability | ✗ | ✓ | ✓ | ✓ |
-| Native Liquidity | ✓ | ✗ | ✓ | ✓ |
-| SPL Token Interoperability | ✓ | ✗ | ✓ | ✓ |
-| Non-fungible Properties | ✗ | ✓ | ✓ | ✓ |
-| Solana-verified gambling | ✗ | ✗ | ✗ | ✓ |
-| Switchboard Oracle support | ✗ | ✗ | ✗ | ✓ |
-| High-speed transactions (<400ms) | ✓ | ✓ | ✓ | ✓ |
-| Low minting costs (<$0.01) | ✓ | ✓ | ✓ | ✓ |
-| Dynamic NFT generation | ✗ | ✗ | ✓ | ✓ |
-| Automatic token-to-NFT conversion | ✗ | ✗ | ✗ | ✓ |
+Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in a 1v1 format where flowers are randomly generated using the oracle.
+
+### 🎲 Flower Probabilities
+
+| Flower | Probability |
+|--------|-------------|
+| Orange | 15.39%      |
+| Blue   | 15.3%       |
+| Yellow | 14.65%      |
+| Mixed  | 14.66%      |
+| Red    | 14.08%      |
+| Assorted | 10.78%    |
+| Purple | 14.84%      |
+| ⚫ Black | ~0.2%     |
+| ⚪ White | ~0.1%     |
+
+### 🏆 Hand Rankings (Best → Worst)
+
+1. **5-of-a-kind**
+2. **4-of-a-kind**
+3. **Full House**
+4. **3-of-a-kind**
+5. **2 Pair**
+6. **No Pair**
+
+<div align="center">
+  <img src="https://i.imgur.com/G57gBzv.png" alt="FlowerPoker Gameplay" width="800">
+</div>
 
 ---
 
-## Technical Architecture
+## 🔍 Feature Comparison
 
-### Token Economics
+| Feature / Compatibility      | SPL Tokens | Metaplex NFTs | Traditional Hybrids | **SOLARCASKETS (Helios400)** |
+|-----------------------------|------------|---------------|----------------------|-------------------------------|
+| Fractionalization           | ✅         | ❌            | ✅                   | ✅                            |
+| NFT Protocol Interoperability | ❌         | ✅            | ✅                   | ✅                            |
+| Native Liquidity            | ✅         | ❌            | ✅                   | ✅                            |
+| Token Interoperability      | ✅         | ❌            | ✅                   | ✅                            |
+| Non-fungible Properties     | ❌         | ✅            | ✅                   | ✅                            |
+| Solana-verified Gambling    | ❌         | ❌            | ❌                   | ✅                            |
+| Oracle Integration          | ❌         | ❌            | ❌                   | ✅                            |
+| Fast (<400ms) Transactions  | ✅         | ✅            | ✅                   | ✅                            |
+| Low Minting Cost (<$0.01)   | ✅         | ✅            | ✅                   | ✅                            |
+| Dynamic NFT Generation      | ❌         | ❌            | ✅                   | ✅                            |
+| Auto Token↔NFT Conversion   | ❌         | ❌            | ❌                   | ✅                            |
 
-- **Total Supply**: 1,000,000,000 Solarcaskets tokens
-- **NFT Supply**: 5,000 unique caskets
-- **Conversion Rate**: 200,000 tokens = 1 NFT
+---
+
+## 🛠 Technical Architecture
+
+### Tokenomics
+
+- **Total Token Supply**: 1,000,000,000 $CASKET
+- **Max NFT Supply**: 5,000 caskets
+- **Swap Rate**: 200,000 tokens = 1 NFT
 - **Oracle Fee**: 0.005 SOL per randomness request
 
 ### Security Features
 
-- Vault-secured token custody
-- Atomic transaction processing
-- Oracle-verified randomness
-- PDA-based account derivation
-- Smart contract escrow for flowerpoker gambling
+- PDA-based contract accounts
+- Vault-secured 1:1 token backing
+- Atomic transactions
+- Verifiable randomness via Switchboard
+- Smart contract-based NFT escrow
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
-### Prerequisites
+### Requirements
 
-- Solana wallet (Phantom, Solflare, etc.)
-- SOL for transaction fees
-- Solarcasket tokens for minting (200,000 - 1 NFT)
+- A Solana-compatible wallet (Phantom, Solflare, etc.)
+- 200,000 $CASKET tokens
+- SOL for gas (~0.005 SOL per transaction)
 
-### Quick Start
+### Quick Steps
 
-1. **Connect Wallet**: Visit the Solarcaskets dashboard and connect your Solana wallet
-2. **Acquire Tokens**: Obtain 200,000+ SOLARCASKETS tokens
-3. **Mint NFT**: Use the swap interface to convert tokens to a random casket NFT
-4. **Start Gaming**: Use your NFT on the Solarcaskets gambling dashboard to play flowerPoker
-5. **Swap Back**: Convert your NFT back to tokens anytime through the dashboard
+1. Connect your wallet at the [Solarcaskets Dashboard](https://your-website.com)
+2. Acquire 200,000+ $CASKET
+3. Swap for a random NFT
+4. Join a FlowerPoker game
+5. Swap back to tokens anytime
 
-### Swap Process
-
-```
-Tokens → NFT: 200,000 SOLARCASKETS → Random Casket NFT
-NFT → Tokens: Casket NFT → 200,000 SOLARCASKETS
-Gaming Fee: 0.005 SOL per game
-```
-
----
-
-## Contributing
-
-We welcome contributions to the SOLARCASKETS ecosystem. Please read our contributing guidelines and submit pull requests for any improvements.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-**Disclaimer**: Gambling involves risk. Please play responsibly and within your means. SOLARCASKETS provides verifiable randomness but cannot guarantee profits or prevent losses.
