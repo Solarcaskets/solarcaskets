@@ -35,7 +35,7 @@ Seamlessly convert SPL tokens into NFTs with integrated on-chain gambling powere
 
 ---
 
-## ❓ Why Was Solarcaskets Created?
+## Why Was Solarcaskets Created?
 
 Solarcaskets emerged as a response to the limitations of Ethereum's hybrid token standards like ERC404. With Solana’s faster block times and lower fees, we built a protocol that not only replicates those concepts but pushes them further using Solana-native tools like Switchboard Oracles.
 
@@ -43,7 +43,7 @@ Unlike other implementations, **Solarcaskets is the first project to embed gambl
 
 ---
 
-## ⚙️ What Is Helios400?
+##  What Is Helios400?
 
 Helios400 is a custom Solana token standard that merges the liquidity of SPL tokens with the uniqueness of NFTs, enabling assets to fluidly switch between these states.
 
@@ -59,23 +59,23 @@ Key features:
 
 ---
 
-## 🔄 How Helios400 Works
+## How Helios400 Works
 
 The system operates through two smart contracts that manage token swaps, NFT minting, and oracle integrations, all accessible via the **Solarcaskets dashboard**.
 
-### 🧾 Convert Tokens → NFT
+### Convert Tokens → NFT
 
 - Deposit 200,000 SOLARCASKETS tokens
 - Oracle generates randomness
 - Receive a randomized casket NFT (Diamond, Platinum, Gold, or Wooden)
 - Tokens are stored in a secure vault
 
-### 🔁 Convert NFT → Tokens
+### Convert NFT → Tokens
 
 - Burn your NFT via the dashboard
 - Retrieve your exact 200,000 tokens from the vault
 
-### 🎮 Play FlowerPoker
+### Play FlowerPoker
 
 - Stake your NFT in a 1v1 game
 - Oracle determines the winner
@@ -87,7 +87,7 @@ The system operates through two smart contracts that manage token swaps, NFT min
 
 ---
 
-## ⚰️ The Casket Collection
+## The Casket Collection
 
 Each NFT represents a tier of rarity and utility:
 
@@ -103,11 +103,11 @@ Each NFT represents a tier of rarity and utility:
 
 ---
 
-## 🌸 FlowerPoker Gambling
+## FlowerPoker Gambling
 
 Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in a 1v1 format where flowers are randomly generated using the oracle.
 
-### 🎲 Flower Probabilities
+### Flower Probabilities
 
 | Flower | Probability |
 |--------|-------------|
@@ -121,7 +121,7 @@ Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in
 | ⚫ Black | ~0.2%     |
 | ⚪ White | ~0.1%     |
 
-### 🏆 Hand Rankings (Best → Worst)
+### Hand Rankings (Best → Worst)
 
 1. **5-of-a-kind**
 2. **4-of-a-kind**
@@ -136,7 +136,7 @@ Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in
 
 ---
 
-## 🔍 Feature Comparison
+## Feature Comparison
 
 | Feature / Compatibility      | SPL Tokens | Metaplex NFTs | Traditional Hybrids | **SOLARCASKETS (Helios400)** |
 |-----------------------------|------------|---------------|----------------------|-------------------------------|
@@ -154,7 +154,7 @@ Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in
 
 ---
 
-## 🛠 Technical Architecture
+## Technical Architecture
 
 ### Tokenomics
 
@@ -173,7 +173,7 @@ Inspired by RuneScape’s classic minigame, FlowerPoker lets players bet NFTs in
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Requirements
 
