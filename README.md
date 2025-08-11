@@ -15,7 +15,7 @@ Dynamic SPL token-to-NFT conversion, native gambling integration, and verifiable
 
 <br/>
 
-<img src="https://i.imgur.com/J4j5QmA.png" alt="Solarcaskets Banner" width="600"/>
+<img src="https://i.imgur.com/zZlvBme.png" alt="Solarcaskets Banner" width="600"/>
 
 </div>
 
