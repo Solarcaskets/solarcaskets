@@ -62,7 +62,7 @@ Key benefits:
 - **Liquidity**: Underlying tokens remain fully recoverable
 
 <div align="center">
-  <img src="https://i.imgur.com/tpjER3U.png" alt="Helios400 Diagram" width="600"/>
+  <img src="https://i.imgur.com/MZrUoQ0.png" alt="Helios400 Diagram" width="600"/>
 </div>
 
 ---
@@ -151,7 +151,7 @@ Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minig
 6. No Pair
 
 <div align="center">
-  <img src="https://i.imgur.com/G57gBzv.png" alt="FlowerPoker Diagram" width="600"/>
+  <img src="https://i.imgur.com/If0tCDf.png" alt="FlowerPoker Diagram" width="600"/>
 </div>
 
 ---
