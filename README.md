@@ -101,7 +101,7 @@ Every NFT minted is fully backed by 200,000 SOLARCASKETS tokens held securely in
 - Simplifies asset management for the user
 
 <div align="center">
-  <img src="https://i.imgur.com/6NYO1CW.png" alt="Architecture Diagram" width="600"/>
+  <img src="https://i.imgur.com/I1EH2s7.png" alt="Minting Diagram" width="600"/>
 </div>
 
 ---
