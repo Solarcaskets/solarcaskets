@@ -4,7 +4,7 @@
 
 **A hybrid token protocol built on Solana using the Helios400 standard**
 
-Dynamic SPL token-to-NFT conversion, native gambling integration, and verifiable randomness via Switchboard Oracle — all wrapped in a seamless, high-speed protocol.
+Dynamic SPL token-to-NFT conversion, native gambling integration, and verifiable randomness via Orao Oracle — all wrapped in a seamless, high-speed protocol.
 
 <br/>
 
@@ -42,7 +42,7 @@ We designed the **Helios400** standard from the ground up to align with Solana�
 
 - Enables **instant, on-chain conversion** between tokens and NFTs
 - Embeds a **native gambling mechanic** with **verifiable randomness**
-- Utilizes **Switchboard Oracles** to ensure security and fairness
+- Utilizes **Orao Oracles** to ensure security and fairness
 
 No other hybrid protocol on Solana combines speed, utility, and transparent on-chain gaming like Solarcaskets.
 
@@ -90,7 +90,7 @@ Helios400 utilizes a two-contract system with a secure vault and oracle-linked r
 - Visit the Solarspace gambling dashboard  
 - Stake your NFT to create or join a challenge  
 - The winner receives both NFTs  
-- Outcomes are verified by Switchboard randomness
+- Outcomes are verified by Orao randomness
 
 ### Vault System
 
@@ -212,7 +212,7 @@ Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minig
       <td align="center">✅</td>
     </tr>
     <tr>
-      <td>Switchboard Oracle Support</td>
+      <td>Orao Oracle Support</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
       <td align="center">❌</td>
@@ -263,7 +263,7 @@ Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minig
 - Program-Derived Addresses (PDAs)  
 - Token vaults for custody  
 - Atomic transaction design  
-- Switchboard Oracle for randomness  
+- Orao Oracle for randomness  
 - Smart contract-based escrow during gameplay
 
 ---
