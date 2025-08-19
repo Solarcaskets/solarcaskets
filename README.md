@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-solarcaskets.io-0066CC?style=flat-square)](https://solarcaskets.io)
 [![Documentation](https://img.shields.io/badge/Documentation-docs.solarcaskets.io-28a745?style=flat-square)](https://docs.solarcaskets.io)
 [![Twitter](https://img.shields.io/badge/Twitter-@solar_caskets-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/solar_caskets)
-[![Solscan](https://img.shields.io/badge/View%20on%20Solscan-FFB800?style=flat-square)](https://solscan.io/token/YOUR_TOKEN_ADDRESS)
+[![Solscan](https://img.shields.io/badge/View%20on%20Solscan-FFB800?style=flat-square)](https://solscan.io/token/fUGa7swLiTr8RwsZChfPXEX15N6H3WseEDPSDKVpump)
 
 <br/>
 
