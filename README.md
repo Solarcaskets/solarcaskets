@@ -21,14 +21,14 @@
 
 ## 📚 Table of Contents
 
-- [Why Was Solarcaskets Created?](#why-was-solarcaskets-created)
-- [What Is Helios400?](#what-is-helios400)
-- [How Helios400 Works](#how-helios400-works)
-- [The Casket Collection](#the-casket-collection)
-- [FlowerPoker Gambling](#flowerpoker-gambling)
-- [Feature Comparison](#feature-comparison)
-- [Technical Architecture](#technical-architecture)
-- [Getting Started](#getting-started)
+- [Why was solarcaskets created](#why-was-solarcaskets-created)
+- [What is Helios400?](#what-is-helios400)
+- [How Helios400 works](#how-helios400-works)
+- [The casket collection](#the-casket-collection)
+- [Flowerpoker gambling](#flowerpoker-gambling)
+- [Feature comparison](#feature-comparison)
+- [Technical architecture](#technical-architecture)
+- [Getting started](#getting-started)
 
 ---
 
