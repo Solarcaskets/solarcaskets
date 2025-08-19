@@ -2,9 +2,7 @@
 
 # 📦 Solarcaskets
 
-**A hybrid token protocol built on Solana using the Helios400 standard**
-
-Dynamic SPL token-to-NFT conversion, native gambling integration, and verifiable randomness via Orao Oracle — all wrapped in a seamless, high-speed protocol.
+**Solarcaskets is a hybrid token protocol implementing the Helios400 token standard on Solana, featuring SPL token-to-NFT conversion mechanisms with Orao Oracle integration for verifiable on-chain gambling**
 
 <br/>
 
