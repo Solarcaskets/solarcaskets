@@ -34,9 +34,9 @@
 
 ## Why Was Solarcaskets Created?
 
-Solarcaskets was created in response to the evolving ERC404 landscape. Rather than copying Ethereum's limitations, we sought to leverage **Solana's advantages**: ultra-fast transaction speeds and near-zero minting fees.
+Solarcaskets was created in response to the evolving ERC404 landscape. Rather than copying Ethereum's limitations, we sought to leverage **Solana's advantages**: fast transaction speeds and near-zero minting fees.
 
-We designed the **Helios400** standard from the ground up to align with Solana’s architecture. The result? A pioneering hybrid asset protocol that:
+We designed the **Helios400** standard from the ground up to align with Solana's architecture. The result? A hybrid asset protocol that:
 
 - Enables **instant, on-chain conversion** between tokens and NFTs
 - Embeds a **native gambling mechanic** with **verifiable randomness**
@@ -55,7 +55,7 @@ Imagine owning a liquid, tradable token that can be instantly transformed into a
 Key benefits:
 
 - **Flexibility**: Switch between token and NFT forms at will
-- **Efficiency**: Solana’s 400ms block times make it fast and cheap
+- **Efficiency**: Solana's 400ms block times make it fast and cheap
 - **Utility**: NFTs enable gaming and gamification use cases
 - **Liquidity**: Underlying tokens remain fully recoverable
 
@@ -74,7 +74,7 @@ Helios400 utilizes a two-contract system with a secure vault and oracle-linked r
 1. Connect to the Solarcaskets dashboard  
 2. Swap 200,000 tokens to mint a randomized NFT  
 3. Tokens are held in the Helios400 vault  
-4. Orao Oracle determines your NFT’s rarity (Diamond, Platinum, Gold, or Wooden)  
+4. Orao Oracle determines your NFT's rarity (Diamond, Platinum, Gold, or Wooden)  
 5. NFT is sent to your wallet
 
 ### Converting Back to Tokens
@@ -119,11 +119,23 @@ There are four types of NFTs in the Solarcaskets collection, representing differ
 - Distributed randomly via Oracle  
 - Required to access FlowerPoker gambling
 
+### 📂 Collection Repository
+
+The complete metadata and assets for all 5,000 Solarcaskets NFTs are available in our dedicated repository:
+
+**[📦 View Collection Repository →](https://github.com/Solarcaskets/SolarcasketsCollection)**
+
+This repository contains:
+- Individual JSON metadata files for all caskets
+- IPFS-hosted artwork and animations
+- Trait distribution data
+- Technical specifications
+
 ---
 
 ## FlowerPoker Gambling
 
-Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minigame where the player with the best flower combination wins both caskets.
+Inspired by RuneScape's legendary game, FlowerPoker is a 1v1 NFT-staking minigame where the player with the best flower combination wins both caskets.
 
 ### 🎲 Flower Generation Probabilities
 
@@ -281,4 +293,3 @@ Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minig
 3. Swap tokens for a randomized NFT casket  
 4. Play FlowerPoker via the dashboard  
 5. Swap NFT back into tokens at any time
-
