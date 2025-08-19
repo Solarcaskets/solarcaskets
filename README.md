@@ -8,10 +8,10 @@ Dynamic SPL token-to-NFT conversion, native gambling integration, and verifiable
 
 <br/>
 
-[![🌐 Website](https://img.shields.io/badge/Website-solarcaskets.io-blue?style=for-the-badge)](https://solarcaskets.io)
-[![📖 Docs](https://img.shields.io/badge/Docs-docs.solarcaskets.io-green?style=for-the-badge)](https://docs.solarcaskets.io)
-[![🐦 Twitter](https://img.shields.io/badge/Twitter-@solar_caskets-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/solar_caskets)
-[![🔍 Solscan](https://img.shields.io/badge/View%20on-Solscan-yellow?style=for-the-badge)](https://solscan.io/token/YOUR_TOKEN_ADDRESS)
+[![Website](https://img.shields.io/badge/Website-solarcaskets.io-0066CC?style=flat-square)](https://solarcaskets.io)
+[![Documentation](https://img.shields.io/badge/Documentation-docs.solarcaskets.io-28a745?style=flat-square)](https://docs.solarcaskets.io)
+[![Twitter](https://img.shields.io/badge/Twitter-@solar_caskets-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/solar_caskets)
+[![Solscan](https://img.shields.io/badge/View%20on%20Solscan-FFB800?style=flat-square)](https://solscan.io/token/YOUR_TOKEN_ADDRESS)
 
 <br/>
 
@@ -76,7 +76,7 @@ Helios400 utilizes a two-contract system with a secure vault and oracle-linked r
 1. Connect to the Solarcaskets dashboard  
 2. Swap 200,000 tokens to mint a randomized NFT  
 3. Tokens are held in the Helios400 vault  
-4. Switchboard Oracle determines your NFT’s rarity (Diamond, Platinum, Gold, or Wooden)  
+4. Orao Oracle determines your NFT’s rarity (Diamond, Platinum, Gold, or Wooden)  
 5. NFT is sent to your wallet
 
 ### Converting Back to Tokens
@@ -117,7 +117,7 @@ There are four types of NFTs in the Solarcaskets collection, representing differ
 | 🟡 Gold       | 1,536    | Rare             |
 | 🪵 Wooden     | 2,182    | Common           |
 
-- Requires 200,000 $CASKET to mint  
+- Requires 200,000 Solarcasket tokens to mint  
 - Distributed randomly via Oracle  
 - Required to access FlowerPoker gambling
 
@@ -149,8 +149,6 @@ Inspired by RuneScape’s legendary game, FlowerPoker is a 1v1 NFT-staking minig
 4. 3-of-a-kind  
 5. 2 Pair  
 6. No Pair
-
-Strategic betting and the rarest flowers (Black, White) introduce both excitement and unpredictability.
 
 <div align="center">
   <img src="https://i.imgur.com/G57gBzv.png" alt="FlowerPoker Diagram" width="600"/>
